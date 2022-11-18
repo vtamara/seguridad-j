@@ -27,7 +27,7 @@ no hubo intentos.  Se tuvo que auditar servidor de correo de Pasos de Jesús
 porque en el archivo .env había credenciales del usuario sijrscol usado para
 enviar correos, no se encontró evidencia de usos no autorizados.
 
-Contención:
+# Contención:
 
 * Se arreglo configuración del servidor web para evitar acceso a archivos de
   configuración 
