@@ -5,6 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
+  label: Seguridad Informática
+- type: heading
   label: Content
 - type: directory
   path: _posts
