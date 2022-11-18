@@ -1,10 +1,6 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
+  - title: "Noticias"
+    url: /
+  - title: "Archivo por Años"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
